@@ -8,7 +8,12 @@ This repository contains a clean and responsive **"About Us" webpage** built usi
 
 ## 📁 Project Structure
 
-about-us-page/ ├── index.html # Main HTML file (About Us layout) ├── styles.css # CSS styling ├── logo.png.jpeg # Company logo ├── icon.png.png # Hamburger icon (mobile view) └── display.png.jpeg # Hero/illustration image
+about-us-page/
+├── index.html # Main HTML file (About Us layout)
+├── styles.css # CSS styling
+├── logo.png.jpeg # Company logo
+├── icon.png.png # Hamburger icon (mobile view)
+└── display.png.jpeg # Hero/illustration image
 
 yaml
 Copy
@@ -38,7 +43,7 @@ Edit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/about-us-page.git
+   git clone https:[https://github.com/vineelach7/KRAFTPIXEL].git
 Open the project folder:
 
 bash
